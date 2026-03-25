@@ -6,7 +6,6 @@ public class Main {
 		Hello hello= new Hello();
 		hello.say();
 
-
 	}
 
 }
